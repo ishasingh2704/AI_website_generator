@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 AI Website Generator
 
 An **AI-powered full-stack web application** that enables users to generate, manage, preview, and version websites using AI.  
@@ -224,6 +224,4 @@ Jaypee Institute of Information Technology, Noida
 
 This project demonstrates **full-stack development, AI integration, authentication, and scalable backend design**, making it suitable for **internships, placements, and technical interviews**.
 
-```
-```
 
